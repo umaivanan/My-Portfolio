@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'https://www.africau.edu/images/default/sample.pdf'
+        link: 'https://www.canva.com/design/DAGXUFglTRg/p8NMTFUEYZTB3bH4gNRCjQ/view'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row  bg-gradient-to-br from-blue-900 to-black px-5 '>
